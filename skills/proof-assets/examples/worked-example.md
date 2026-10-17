@@ -32,7 +32,7 @@ python3 scripts/score_proof.py --file examples/proof-vague.json --as-of 2026-10-
 
 The founder opened the CRM export the customer had shared. "Pipeline" turned out to be a looser word than the work. What actually moved was reply time on inbound demo requests: two days before, four hours after, over the first 60 days.
 
-That is a smaller claim than "tripled pipeline". It is also one the founder can show.
+That claim is smaller than "tripled pipeline", and the founder can show it.
 
 ## Step 2: ask the customer
 
@@ -59,7 +59,7 @@ a1 result      2 days → 4 hours, time to first reply, first 60 days
                Head of Sales, 30-person logistics software company
                unnamed · verbal · CRM export · 2026-09-30
 a2 testimonial "We stopped losing Friday demo requests to Monday..."
-               Priya Shah, VP Sales, Harbor Logistics (sample)
+               Priya Shah, Head of Sales, Harbor Logistics (sample)
                named · written · her email · 2026-10-03
 a3 metric      412 requests routed in Q3, median reply 3 h 50 min
                unnamed · verbal · routing log · 2026-10-01

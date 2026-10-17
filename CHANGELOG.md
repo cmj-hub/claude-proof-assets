@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — 2026-10-17
+## 0.1.0 (2026-10-17)
 
 - First public MIT release.
 - Instrument: a proof asset is a claim a buyer can check, from someone who agreed you could use it, dated.
