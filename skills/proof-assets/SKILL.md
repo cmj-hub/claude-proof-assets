@@ -2,7 +2,7 @@
 name: proof-assets
 description: "Collect, write and score proof assets: results with before and after, metrics, testimonials and logos a buyer can check, each with a source, a date and recorded permission. Refuses multiples with no numbers behind them, empty praise, named buyers without written permission, and stale proof. Use when gathering case results or testimonials, writing a proof section, asking a customer for a quote, or checking claims before they go on a page. Not for writing the LinkedIn post (founder-brand) or the page itself (landing-page)."
 argument-hint: "[kickoff | score | ask | rewrite]"
-allowed-tools: Read Write Bash(python3 ${CLAUDE_SKILL_DIR}/scripts/score_proof.py:*)
+allowed-tools: Read Write(./gtm/**) Bash(python3 ${CLAUDE_SKILL_DIR}/scripts/score_proof.py:*)
 license: MIT
 models: ""
 ---
