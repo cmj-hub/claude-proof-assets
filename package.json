@@ -1,0 +1,37 @@
+{
+  "name": "@jmc-gtm/claude-proof-assets",
+  "version": "0.1.1",
+  "description": "Proof assets a buyer can check: results with before and after, metrics, testimonials and logos, each with a source, a date and recorded permission. Refuses multiples with no numbers behind them, empty praise, named buyers without written permission, and stale proof. Stdlib-only Python scorer. No network.",
+  "license": "MIT",
+  "author": "JMC Go-to-Market Systems",
+  "homepage": "https://github.com/cmj-hub/claude-proof-assets#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmj-hub/claude-proof-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmj-hub/claude-proof-assets/issues"
+  },
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "proof",
+    "case-study",
+    "testimonials",
+    "social-proof",
+    "b2b",
+    "gtm"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}

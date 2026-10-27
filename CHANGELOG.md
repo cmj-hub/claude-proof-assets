@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 (2026-10-26)
+
+- Published on npm as `@jmc-gtm/claude-proof-assets`, released from this repo's version tags. The skill is unchanged. Tag `v0.1.0` already existed, so npm starts at 0.1.1.
+
 ## 0.1.0 (2026-10-17)
 
 - First public MIT release.
