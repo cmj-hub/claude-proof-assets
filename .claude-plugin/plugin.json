@@ -1,6 +1,6 @@
 {
   "name": "proof-assets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Proof assets a buyer can check: results with before and after, metrics, testimonials and logos, each with a source, a date and recorded permission. Refuses multiples with no numbers behind them, empty praise, named buyers without written permission, and stale proof. Stdlib-only Python scorer. No network.",
   "author": {
     "name": "JMC Go-to-Market Systems",
